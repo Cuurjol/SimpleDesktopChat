@@ -1,0 +1,7 @@
+C:\Users\Cuurjol\Desktop\SimpleDesktopChat\WcfService\bin\Debug\WcfService.dll.config
+C:\Users\Cuurjol\Desktop\SimpleDesktopChat\WcfService\bin\Debug\WcfService.dll
+C:\Users\Cuurjol\Desktop\SimpleDesktopChat\WcfService\bin\Debug\WcfService.pdb
+C:\Users\Cuurjol\Desktop\SimpleDesktopChat\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+C:\Users\Cuurjol\Desktop\SimpleDesktopChat\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+C:\Users\Cuurjol\Desktop\SimpleDesktopChat\WcfService\obj\Debug\WcfService.dll
+C:\Users\Cuurjol\Desktop\SimpleDesktopChat\WcfService\obj\Debug\WcfService.pdb

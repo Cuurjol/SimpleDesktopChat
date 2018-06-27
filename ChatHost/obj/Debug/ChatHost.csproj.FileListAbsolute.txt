@@ -1,0 +1,11 @@
+C:\Users\Cuurjol\Desktop\SimpleDesktopChat\ChatHost\bin\Debug\ChatHost.exe.config
+C:\Users\Cuurjol\Desktop\SimpleDesktopChat\ChatHost\bin\Debug\ChatHost.exe
+C:\Users\Cuurjol\Desktop\SimpleDesktopChat\ChatHost\bin\Debug\ChatHost.pdb
+C:\Users\Cuurjol\Desktop\SimpleDesktopChat\ChatHost\bin\Debug\WcfService.dll
+C:\Users\Cuurjol\Desktop\SimpleDesktopChat\ChatHost\bin\Debug\WcfService.pdb
+C:\Users\Cuurjol\Desktop\SimpleDesktopChat\ChatHost\bin\Debug\WcfService.dll.config
+C:\Users\Cuurjol\Desktop\SimpleDesktopChat\ChatHost\obj\Debug\ChatHost.csprojResolveAssemblyReference.cache
+C:\Users\Cuurjol\Desktop\SimpleDesktopChat\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+C:\Users\Cuurjol\Desktop\SimpleDesktopChat\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+C:\Users\Cuurjol\Desktop\SimpleDesktopChat\ChatHost\obj\Debug\ChatHost.exe
+C:\Users\Cuurjol\Desktop\SimpleDesktopChat\ChatHost\obj\Debug\ChatHost.pdb
